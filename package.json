@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "mehemmedhsynv1.github.io/Todo/",
+  "homepage": "https://mehemmedhsynv1.github.io/Todo/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
