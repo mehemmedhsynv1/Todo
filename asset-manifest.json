@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mehemmedhsynv1.github.io/Todo/static/css/main.e86ea49f.css",
+    "main.js": "/mehemmedhsynv1.github.io/Todo/static/js/main.52f10050.js",
+    "static/media/colorful-love-hearts-wallpaper-free-image.webp": "/mehemmedhsynv1.github.io/Todo/static/media/colorful-love-hearts-wallpaper-free-image.c8b13a0801c540ee6d7b.webp",
+    "index.html": "/mehemmedhsynv1.github.io/Todo/index.html",
+    "main.e86ea49f.css.map": "/mehemmedhsynv1.github.io/Todo/static/css/main.e86ea49f.css.map",
+    "main.52f10050.js.map": "/mehemmedhsynv1.github.io/Todo/static/js/main.52f10050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86ea49f.css",
+    "static/js/main.52f10050.js"
+  ]
+}
